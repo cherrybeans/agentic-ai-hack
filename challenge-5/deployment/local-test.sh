@@ -18,7 +18,7 @@ SUBSCRIPTION_ID=$(az account show --query id --output tsv)
 echo "📋 Current subscription: $SUBSCRIPTION_ID"
 
 # You need to set these variables to match your environment
-RESOURCE_GROUP="rghack"  # Replace with your resource group
+RESOURCE_GROUP="hackathon"  # Replace with your resource group
 SP_NAME="insurance-orchestrator-sp"
 
 echo ""

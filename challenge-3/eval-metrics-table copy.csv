@@ -1,0 +1,6 @@
+index,query,intent_resolution,task_adherence,tool_call_accuracy,server_run_seconds,client_run_seconds,completion_tokens,prompt_tokens
+1,"According to our motorcycle policy documents, what specific coverage options and limits are available for motorcycle insurance?",4,4,not applicable,11,11.3380477428,390,2337
+2,"Based on our comprehensive auto policy, is vehicle theft covered and what are the coverage details?",5,4,not applicable,8,8.8303639889,347,2319
+3,What are the specific liability coverage limits outlined in our commercial auto policies?,5,5,not applicable,7,7.6760251522,275,2366
+4,"According to our high value vehicle policy documentation, what coverage is provided for custom vehicle modifications and aftermarket parts?",5,5,not applicable,9,9.8740026951,359,2276
+5,What specific exclusions and limitations are listed in our liability only auto policies?,5,5,not applicable,8,8.7138397694,417,2373

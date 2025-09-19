@@ -1,10 +1,10 @@
 [
   {
-    "query": "According to our motorcycle policy documents, what specific coverage options and limits are available for motorcycle insurance?",
+    "query": "According to our motorcycle policy documents, what specific coverage options and limits are available for motorcycle insurance? Use own policy documents only.",
     "ground-truth": "The motorcycle policy should include comprehensive coverage, collision coverage, liability coverage, and uninsured/underinsured motorist coverage options with specific policy limits and deductibles."
   },
   {
-    "query": "Based on our comprehensive auto policy, is vehicle theft covered and what are the coverage details?",
+    "query": "Based on our comprehensive auto policy, is vehicle theft covered and what are the coverage details? Use own policy documents only.",
     "ground-truth": "Yes, theft is typically covered under comprehensive coverage with applicable deductibles and policy limits."
   },
   {
